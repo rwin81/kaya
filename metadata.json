@@ -1,0 +1,12 @@
+{
+  "name": "Fantasteak POS & Digital Menu",
+  "short_name": "Fantasteak",
+  "description": "Premium Steakhouse Digital Ordering System & Financial Dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#f59e0b",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
