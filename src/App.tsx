@@ -15,8 +15,8 @@ const App: React.FC = () => {
   const [password, setPassword] = useState('');
 
   const PASSWORDS = {
-    cashier: 'kasir',
-    admin: 'admin'
+    cashier: 'kasirqu',
+    admin: 'adminqu'
   };
 
   const fetchOrders = useCallback(async () => {
